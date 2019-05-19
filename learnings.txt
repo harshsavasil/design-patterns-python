@@ -1,0 +1,7 @@
+Objects - (usually Nouns)
+    Attributes or Properties (read-only)
+    Methods or Functions (usually Verbs)
+Public and Private Interface of Objects
+Association with other classes
+Inheritance and Multiple Inheritance (Distinct Public Interfaces)
+Exceptions
